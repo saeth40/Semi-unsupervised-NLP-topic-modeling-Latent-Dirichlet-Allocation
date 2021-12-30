@@ -13,8 +13,15 @@ Education reform policy and sustainable development policy department
 ## Preparing test and train dataset
 ### Query non-STEM jobs from MongoDB and test the LDA algorithm
 
-(selected data)
-(LDA demo)
+***Table***
+
+![](Images/ldaNonStemTable.png)
+
+***LDA model***
+
+![](Images/ldaNonStemModel.png)
+
+***Link to the code:*** [Click here](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Preparing%20test%20and%20train%20dataset/Query_non_STEM_plus_LDAtesting.ipynb).
 
 ### Shuffle selected data and split it to test (5,000) and train (the rest)
 
