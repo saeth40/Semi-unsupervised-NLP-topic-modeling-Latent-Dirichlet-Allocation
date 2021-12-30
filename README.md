@@ -10,6 +10,7 @@ Education reform policy and sustainable development policy department
 4. Evauate and fine tune models.
 5. Deploy models and analyze the results to define education policy for the newer Thai generations to have the skills demanded by the job market trend.
 
+
 ## Preparing test and train dataset
 ### Query non-STEM jobs from MongoDB and test the LDA algorithm
 
@@ -21,16 +22,23 @@ Education reform policy and sustainable development policy department
 
 ![](Images/ldaNonStemModel.png)
 
-***Link to the code:*** [Click here](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Preparing%20test%20and%20train%20dataset/Query_non_STEM_plus_LDAtesting.ipynb).
+***Link to the code:*** [Query non-STEM and LDA testing](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Preparing%20test%20and%20train%20dataset/Query_non_STEM_plus_LDAtesting.ipynb).
 
 ### Shuffle selected data and split it to test (5,000) and train (the rest)
 
-(link to the code)
+***Link to the code:*** [Split test train](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Preparing%20test%20and%20train%20dataset/Shuffle_5000.py).
 
 ### Divide test dataset into 10 files allocated to members to label job titles
 
-(link to the code)
-(the excel sample of title label)
+***Mapping from numbers to job titles***
+
+![](Images/ldaMappingJobs.png)
+
+***Sample of a labeled table***
+
+![](Images/ldaLabeledSample.png)
+
+***Link to the code:*** [Labeled test dataset](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Preparing%20test%20and%20train%20dataset/Dividing_500.py)
 
 ### Combine job description with job title into a 'combine' column
 
@@ -44,5 +52,6 @@ Education reform policy and sustainable development policy department
 2. with bigram and trigram.
 
 (link to the code)
+
 
 ## Training LDA models
