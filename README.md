@@ -49,11 +49,11 @@ Education reform policy and sustainable development policy department
 ### Preprocess a dictionary of the train dataset
 1. without bigram and trigram.
 
-(link to the code)
+***Link to the code:*** [Dictionary without Bi, Tri gram](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Preparing%20test%20and%20train%20dataset/DictionryWithoutBiTri.py)
 
 2. with bigram and trigram.
 
-(link to the code)
+***Link to the code:*** [Dictionary with Bi, Tri gram](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Preparing%20test%20and%20train%20dataset/DictionryWithBiTri.py)
 
 
 ## Training LDA models
