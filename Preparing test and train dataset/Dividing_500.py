@@ -1,6 +1,6 @@
 import pandas as pd
 
-data=pd.read_csv('C:\\Users\\saeth\\Desktop\\TDRI\\test_nonStemV2_50000.csv')
+data=pd.read_csv('C:\\Users\\saeth\\Desktop\\TDRI\\test_nonStemV2_5000.csv')
 print(data.columns)
 div=500  # division
 num_people=10
