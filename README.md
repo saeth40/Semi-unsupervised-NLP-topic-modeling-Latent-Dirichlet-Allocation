@@ -14,7 +14,14 @@ Education reform policy and sustainable development policy department
 ## Preparing test and train dataset
 ### Query non-STEM jobs from MongoDB and test the LDA algorithm
 
-***Table***
+***Data schema***
+
+![](Images/ldaDataSchema1.png)
+![](Images/ldaDataSchema2.png)
+
+![](Images/ldaDataSchema3.png)
+
+***Result table***
 
 ![](Images/ldaNonStemTable.png)
 
