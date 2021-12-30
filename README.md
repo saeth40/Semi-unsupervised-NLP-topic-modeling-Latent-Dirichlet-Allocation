@@ -17,6 +17,7 @@ Education reform policy and sustainable development policy department
 ***Data schema***
 
 ![](Images/ldaDataSchema1.png)
+
 ![](Images/ldaDataSchema2.png)
 
 ![](Images/ldaDataSchema3.png)
