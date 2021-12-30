@@ -77,3 +77,6 @@ Education reform policy and sustainable development policy department
 3. eta = 0.01 to 10 (increase by 0.01)
 
 ***Link to the code:*** [Training LDA models](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Training%20LDA%20models/LDA_training.py)
+
+
+## Models evaluation
