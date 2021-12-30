@@ -40,9 +40,11 @@ Education reform policy and sustainable development policy department
 
 ***Link to the code:*** [Labeled test dataset](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Preparing%20test%20and%20train%20dataset/Dividing_500.py)
 
-### Combine job description with job title into a 'combine' column
+### Combine job description with job title into a 'combine' column, and map numbers to job titles
 
-(the output excel combine)
+![](Images/ldaCombineAndMap.png)
+
+***Link to the code:*** [Combine and map test dataset](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Preparing%20test%20and%20train%20dataset/CombineDescriptionWithTitle_And_Mapping.py)
 
 ### Preprocess a dictionary of the train dataset
 1. without bigram and trigram.
