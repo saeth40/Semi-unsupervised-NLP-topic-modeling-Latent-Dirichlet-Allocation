@@ -10,5 +10,5 @@ for i in range(2,num_people+1):  # i = 1,2,3,..., num_people
     select['job_label']=pd.Series()  # add 'job_label' column
     print('i=',i)
     print(left,i*div)
-    select.to_csv('C:\\Users\\saeth\\Desktop\\TDRI\\csv_5000\\test_5000_no'+str(i-1)+'.csv',index=False, header=True)
+    select.to_csv('C:\\Users\\saeth\\Desktop\\TDRI\\csv_500\\test_500_no'+str(i-1)+'.csv',index=False, header=True)
     left=i*div  # update slicing index
