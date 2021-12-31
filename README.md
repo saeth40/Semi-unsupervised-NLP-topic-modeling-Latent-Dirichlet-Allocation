@@ -168,7 +168,24 @@ Education reform policy and sustainable development policy department
 ***Note that after this, the process iterate from 3 to 5 until reaching the desired results 
 
 
-## Models selection
+## 6. Models selection
+### 6.1 Analyze the first guess until the fourth guess of each model with their accuracy
+
+![](Images/ldaFirstGuess.png)
+
+***Link to the code:*** [First to fourth guess](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Models%20selection/FirstGuess_SecondGuess.ipynb)
+
+### 6.2 Choose models that have accuracy higher than threshold(1) and the errors of misguessing is lower than threshold(2)
+
+![](Images/ldaThres.png)
+
+***Link to the code:*** [Models selection with threshold](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Models%20selection/Model_Selection_Threshold.py)
+
+### 6.3 Choose models from 6.2 to have only 1 model per job based on score = (acc - avg_acc)*1.5 - (err - avg_err)*1
+
+![](Images/ldaScore.png)
+
+***Link to the code:*** [Models selection based on score](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Models%20selection/Model_Selection_Score.py)
 
 ## Models pipeline and depoly models
 
