@@ -112,7 +112,39 @@ Education reform policy and sustainable development policy department
 
 ***Link to the code:*** [Error results](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Models%20evaluation/Test_result_error_jobName_tagNo.py)
 
-## Analyze test results
+
+## 4. Analyze test results
+### 4.1 Topic plot for each job
+
+![](Images/ldaTopicPlotPerJob.png)
+
+***Link to the code:*** [Topic plot per job](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Analyze%20test%20results/Topic_plot_for_each_job.ipynb)
+
+### 4.2 Topic distribution with many jobs
+
+![](Images/ldaTopicDistManyJobs.png)
+
+***Link to the code:*** [Topic plot per job](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Analyze%20test%20results/Jobs_plot_for_each_model.ipynb)
+
+### 4.3 one job plot with many models
+
+![](Images/lda1JobPlotManyModels.png)
+
+***Link to the code:*** [Topic plot per job](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Analyze%20test%20results/1job_plot_for_all_models.ipynb)
+
+### 4.4 Hyperparameters plot
+
+***alpha vs error***
+
+![](Images/ldaAlphaVsError.png)
+
+![](Images/ldaAlphaVsErrorBox.png)
+
+***Beta vs error***
+
+![](Images/ldaBetaVsErrorBox.png)
+
+***Link to the code:*** [Hyperparameters plot](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Analyze%20test%20results/Hyperparameters_plot.ipynb)
 
 ## Fine tune dictionary
 
