@@ -146,13 +146,27 @@ Education reform policy and sustainable development policy department
 
 ***Link to the code:*** [Hyperparameters plot](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Analyze%20test%20results/Hyperparameters_plot.ipynb)
 
-### 4.5 Models' guessing results (First guessing until fourth guessing)
+### 4.5 Models' guessing results (all possible guessing and their error)
 
 ![](Images/ldaGuessing.png)
 
 ***Link to the code:*** [Guessing results](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Analyze%20test%20results/Guessing_errors.ipynb)
 
-## Fine tune dictionary
+## 5. Fine tune dictionary
+### 5.1 List all words of each job and drop the low-frequency words
+
+![](Images/ldaDropThres.png)
+
+***Link to the code:*** [All words for each job](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Fine%20tune%20dictionary/All_words_with_threshold_of_each_job.py)
+
+### 5.2 Filter dictonary by eliminating words with 'N' from 'YorN' column
+
+![](Images/ldaYorN.png)
+
+***Link to the code:*** [Y or N filter dictionary](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Fine%20tune%20dictionary/All_words_YorN.py)
+
+***Note that after this, the process iterate from 3 to 5 until reaching the desired results 
+
 
 ## Models selection
 
