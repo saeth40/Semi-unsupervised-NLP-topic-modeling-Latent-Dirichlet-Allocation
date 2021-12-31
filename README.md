@@ -187,6 +187,19 @@ Education reform policy and sustainable development policy department
 
 ***Link to the code:*** [Models selection based on score](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Models%20selection/Model_Selection_Score.py)
 
-## Models pipeline and depoly models
+## 7. Models pipeline and depoly models
+### 7.1 Deploy models in 'order' column of [Model pipeline order.csv](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Models%20pipeline%20and%20depoly%20models/Model_pipeline_order.csv)
+
+![](Images/ldaDeploy.png)
+
+***Link to the code:*** [Deploy models](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Models%20pipeline%20and%20depoly%20models/Deploy_model.ipynb)
+
+### 7.2 Test models in real dataset
+
+![](Images/ldaTest1.png)
+![](Images/ldaTest2.png)
+![](Images/ldaTest3.png)
+
+***Link to the code:*** [Test models](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Models%20pipeline%20and%20depoly%20models/Test_models.ipynb)
 
 ## Insights and findings
