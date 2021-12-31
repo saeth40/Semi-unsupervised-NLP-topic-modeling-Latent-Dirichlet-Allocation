@@ -146,6 +146,12 @@ Education reform policy and sustainable development policy department
 
 ***Link to the code:*** [Hyperparameters plot](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Analyze%20test%20results/Hyperparameters_plot.ipynb)
 
+### 4.5 Models' guessing results (First guessing until fourth guessing)
+
+![](Images/ldaGuessing.png)
+
+***Link to the code:*** [Guessing results](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Analyze%20test%20results/Guessing_errors.ipynb)
+
 ## Fine tune dictionary
 
 ## Models selection
