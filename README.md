@@ -202,4 +202,14 @@ Education reform policy and sustainable development policy department
 
 ***Link to the code:*** [Test models](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Models%20pipeline%20and%20depoly%20models/Test_models.ipynb)
 
-## Insights and findings
+## 8. Insights and findings
+### 8.1 Jobs distribution
+
+![](Images/ldaJobsDist.png)
+
+***Link to the code:*** [Jobs distribution](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Insights%20and%20findings/Jobs_Distribution.ipynb)
+
+### 8.2 Skills
+
+
+### 8.3 Jobs' similarity
