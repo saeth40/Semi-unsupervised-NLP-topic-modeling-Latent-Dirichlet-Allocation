@@ -169,7 +169,7 @@ Education reform policy and sustainable development policy department
 
 
 ## 6. Models selection
-### 6.1 Analyze the first guess until the fourth guess of each model with their accuracy
+### 6.1 Analyze the first guess until the fourth guess of each model with their confidence scores
 
 ![](Images/ldaFirstGuess.png)
 
