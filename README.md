@@ -14,7 +14,7 @@ Education reform policy and sustainable development policy department
 ## 1. Preparing test and train dataset
 ### 1.1 Query non-STEM jobs from MongoDB and test the LDA algorithm
 
-***Data schema***
+          Data schema
 
 ![](Images/ldaDataSchema1.png)
 
@@ -22,11 +22,11 @@ Education reform policy and sustainable development policy department
 
 ![](Images/ldaDataSchema3.png)
 
-***Result table***
+          Result table
 
 ![](Images/ldaNonStemTable.png)
 
-***LDA model***
+          LDA model
 
 ![](Images/ldaNonStemModel.png)
 
@@ -38,11 +38,11 @@ Education reform policy and sustainable development policy department
 
 ### 1.3 Divide test dataset into 10 files allocated to members to label job titles
 
-***Mapping from numbers to job titles***
+          Mapping from numbers to job titles
 
 ![](Images/ldaMappingJobs.png)
 
-***Sample of a labeled table***
+          Sample of a labeled table
 
 ![](Images/ldaLabeledSample.png)
 
@@ -65,7 +65,7 @@ Education reform policy and sustainable development policy department
 
 
 ## 2. Training LDA models
-***Filter dictionary***
+          Filter dictionary
 
 ![](Images/ldaFilterExtremes.png)
 
@@ -74,7 +74,7 @@ Education reform policy and sustainable development policy department
 2. no_below = [5,10, 15, 20, 25, 30, 35, 40 ,45, 50]
 3. no_above = [0.1, 0.3, 0.5, 0.7, 0.9]
 
-***Train the model***
+          Train the model
 
 ![](Images/ldaMulticore.png)
 
