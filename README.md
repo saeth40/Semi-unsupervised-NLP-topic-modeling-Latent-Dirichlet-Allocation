@@ -134,13 +134,13 @@ Education reform policy and sustainable development policy department
 
 ### 4.4 Hyperparameters plot
 
-                    alpha vs error
+          alpha vs error
 
 ![](Images/ldaAlphaVsError.png)
 
 ![](Images/ldaAlphaVsErrorBox.png)
 
-                    Beta vs error
+          Beta vs error
 
 ![](Images/ldaBetaVsErrorBox.png)
 
