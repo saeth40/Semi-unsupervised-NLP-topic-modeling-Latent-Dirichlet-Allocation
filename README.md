@@ -46,7 +46,7 @@ Education reform policy and sustainable development policy department
 
 ![](Images/ldaLabeledSample.png)
 
-***Link to the code:*** [Labeled test dataset](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Preparing%20test%20and%20train%20dataset/Dividing_500.py)
+***Link to the code:*** [Preparing test dataset to label](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Preparing%20test%20and%20train%20dataset/Dividing_500.py)
 
 ### 1.4 Combine job description with job title into a 'combine' column, and map numbers to job titles
 
