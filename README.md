@@ -185,6 +185,8 @@ Education reform policy and sustainable development policy department
 
 ![](Images/ldaScore.png)
 
+***Note that, avg_acc and avg_err are the average values of candidates (models) with a specific job e.g. HR. Acc and err are the value of the selected candidate.***
+
 ***Link to the code:*** [Models selection based on score](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Models%20selection/Model_Selection_Score.py)
 
 ## 7. Models pipeline and depoly models
