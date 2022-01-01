@@ -165,7 +165,7 @@ Education reform policy and sustainable development policy department
 
 ***Link to the code:*** [Y or N filter dictionary](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Fine%20tune%20dictionary/All_words_YorN.py)
 
-***Note that after this, the process iterate from 3 to 5 until reaching the desired results 
+***Note that after this, the process iterates from 3 to 5 until reaching the desired results.***
 
 
 ## 6. Models selection
