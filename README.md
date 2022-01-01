@@ -212,6 +212,7 @@ Education reform policy and sustainable development policy department
 ### 8.2 Top skills in each job (Thai and English)
 
 ![](Images/ldaSkills1.png)
+
 ![](Images/ldaSkills2.png)
 
 ***Full result:*** [Jobs' top skills](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Insights%20and%20findings/Skills_in_each_job_and_similarity.ipynb)
@@ -220,4 +221,4 @@ Education reform policy and sustainable development policy department
 
 ![](Images/ldaSimilarity.png)
 
-***Full result:*** [Jobs' top skills](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Insights%20and%20findings/Skills_in_each_job_and_similarity.ipynb)
+***Full result:*** [Jobs' similarity](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Insights%20and%20findings/Skills_in_each_job_and_similarity.ipynb)
