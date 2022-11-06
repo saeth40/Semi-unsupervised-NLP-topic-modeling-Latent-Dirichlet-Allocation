@@ -4,11 +4,9 @@ Thailand Development Research Institute (TDRI)| Feb 2021 - April 2021
 Education reform policy and sustainable development policy department
 
 ***Objective:***
-1. Query non-stem jobs from MongoDB database.
-2. Preparing test and train dataset.
-3. Train LDA models to classify job titles from their description.
-4. Evauate and fine tune models.
-5. Deploy models and analyze the results to define education policy for the newer Thai generations to have the skills demanded by the job market trend.
+1. Query more than 1 million job descriptions (English and Thai) from MongoDB, an unstructured database, and preprocess them with Gensim and NLTK (stem, lemmatize, stop words removal and corpus filtering based on word frequency)
+2. Classify jobs from their descriptions (TF-IDF word vectors) using fine-tined Latent Dirichlet Allocation, semi-unsupervised NLP topic modeling, with customized evaluation metrics
+3. Deploy models and make a big impact on defining [Thai education policy](https://tdri.or.th/en/2021/12/meeting-new-job-demands-in-the-post-covid-economy/) by visualizing and analyzing job distributions as well as defining skills necessary in the future job market trend for newer Thai generations in the post-Covid economy
 
 
 ## 1. Preparing test and train dataset
