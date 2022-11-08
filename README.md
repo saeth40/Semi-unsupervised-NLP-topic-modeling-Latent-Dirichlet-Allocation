@@ -1,4 +1,4 @@
-# Unsupervised-NLP-Latent-Dirichlet-Allocation (LDA)
+# Semi-supervised-NLP-Latent-Dirichlet-Allocation (LDA)
 Thailand Development Research Institute (TDRI)| Feb 2021 - April 2021
 
 Education reform policy and sustainable development policy department
