@@ -79,8 +79,8 @@ Education reform policy and sustainable development policy department
 
 **Parameters variation:**
 1. num_topics = 1 to 120
-2. alpha (the higher, the more each document contains many more topics) = 0.001 to 0.1 (increase by 0.001) + 'symmetric'
-3. eta = 0.01 to 10 (increase by 0.01) + 'None'
+2. alpha (the higher, the more each document contains more topics) = 0.001 to 0.1 (increase by 0.001) + 'symmetric'
+3. eta (the higher, the more each topic contains more words) = 0.01 to 10 (increase by 0.01) + 'None'
 
 ***Link to the code:*** [Training LDA models](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Training%20LDA%20models/LDA_training.py)
 
