@@ -173,7 +173,7 @@ Education reform policy and sustainable development policy department
 
 ***Link to the code:*** [First to fourth guess](https://github.com/saeth40/Unsupervised-NLP-Latent-Dirichlet-Allocation/blob/main/Models%20selection/FirstGuess_SecondGuess.ipynb)
 
-### 6.2 Choose models that have accuracy higher than threshold(1) and the errors of misguessing is lower than threshold(2)
+### 6.2 Choose models that have accuracy (identify the right topic) higher than threshold (i.e. 70, 75, 80) and the errors of misguessing (identify the wrong topic) is lower than threshold (i.e. 20, 15, 10)
 
 ![](Images/ldaThres.png)
 
